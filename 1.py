@@ -1,4 +1,4 @@
-nums_input = input("Введіть числа через пробіл: ")
+nums_input = input("Введіть числа: ")
 
 nums_list = nums_input.split()
 
